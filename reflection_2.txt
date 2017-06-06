@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 -allows you to choose which files you want to commit
 -you can commit the files you want without having to commit every file
 -this allows you to make commits of only logical changes that go together
+
+How can you use the staging area to make sure you have one commit per logical change?
+-the staging area lets you only commit certain files at a time
+-this allows you to commit different files at different times
