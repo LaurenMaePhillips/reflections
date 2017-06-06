@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+-making a repository starts tracking the version editing history of all the files in that repository
+-this is useful for debugging and to look at old changes you made in the files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-allows you to choose which files you want to commit
+-you can commit the files you want without having to commit every file
+-this allows you to make commits of only logical changes that go together
